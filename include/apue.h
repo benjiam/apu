@@ -8,6 +8,7 @@
 #include <sys/wait.h>
 #include <errno.h>
 #include <signal.h>
+#include <fcntl.h>
 
 //const int MAXLINE  = 1024;
 //const int BUFFSIZE = 1024;
